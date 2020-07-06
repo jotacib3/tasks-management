@@ -1,8 +1,8 @@
 {
   "name": "task-management",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This is nestjs api example",
+  "author": "Jaun Jose Lopez Martinez",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
